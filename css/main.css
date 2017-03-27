@@ -2310,7 +2310,7 @@ header .logo a {
 	letter-spacing: .1rem;
 	padding: 0 2rem;
 	margin: 0;
-	color: #000000;
+	color: #FFFFFF;
 	background: #FF0077;
 }
 #contact form .form-field label::after {
@@ -2398,7 +2398,7 @@ header .logo a {
 #submit-loader .text-loader {
 	display: none;
 	font-family: "poppins-bold", sans-serif;
-	color: #FFFFFF;
+	color: #000000;
 	letter-spacing: .3rem;
 	text-transform: uppercase;
 }
