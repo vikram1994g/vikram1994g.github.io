@@ -2145,6 +2145,7 @@ header .logo a {
 .services-list .icon i {
 	font-size: 5.4rem;
 	color: #FF0077;
+	margin-top: 5px;
 }
 .services-list h3 {
 	color: #FFFFFF;
