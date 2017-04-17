@@ -2352,7 +2352,7 @@ header .logo a {
 }
 #contact textarea:focus {
 	border-color: #FF0077;
-	color: #FFFFFF;
+	color: #151515;
 }
 #contact button.submitform {
 	font-size: 1.5rem;
